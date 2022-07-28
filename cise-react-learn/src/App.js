@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Agile is about Values and Principles!!
+          "Added changes by team member 2"
         </a>
       </header>
     </div>
